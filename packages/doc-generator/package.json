@@ -1,0 +1,13 @@
+{
+  "name": "@doc-generator/doc-generator",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js",
+    "create-md": "node create-md.js"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^9.1.0"
+  }
+}
